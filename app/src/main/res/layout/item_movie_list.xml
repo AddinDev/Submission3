@@ -21,7 +21,7 @@
 
         <ImageView
             android:id="@+id/img_poster"
-            android:layout_width="60dp"
+            android:layout_width="40dp"
             android:layout_height="60dp"
             android:background="#16000000"
             android:contentDescription="TODO" />
